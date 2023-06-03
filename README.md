@@ -11,9 +11,7 @@
 ### Langages utilisés
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/20syldev)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/20syldev)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/20syldev)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/20syldev)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/20syldev)
 
 <p align="center">
   <a href="https://github.com/20syldev">
@@ -25,13 +23,13 @@
   <a href="https://github.com/20syldev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=20syldev&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/20syldev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/20syldev">
     <img src="https://komarev.com/ghpvc/?username=20syldev&color=blue&style=flat)" />
   </a>
 </p>
