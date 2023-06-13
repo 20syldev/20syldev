@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<h3 align="center">📃 - Langages utilisés pour le <b><a href="https://github.io/doc-coopbot">Wiki</a></b>.</h3>
+<h3 align="center">📃 - Langages utilisés pour le <b><a href="https://20syldev.github.io/doc-coopbot/">Wiki</a></b>.</h3>
 <p align="center">
   <a href="https://github.com/20syldev">
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5"/>
