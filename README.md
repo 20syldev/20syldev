@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/20syldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&layout=compact&locale=fr&theme=holi"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=20syldev&layout=compact&locale=fr&theme=holi"/>
   </a>
   <a href="https://github.com/20syldev">
     <img src="https://github-readme-stats.vercel.app/api?username=20syldev&show_icons=true&hide_rank=true&theme=holi&include_all_commits=true&hide=stars,contribs&locale=fr&line_height=24"/>
