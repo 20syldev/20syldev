@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>Un développeur Web et Discord français.</b>
-    Je travaille sur <b><a href="https://beacons.ai/coopbot">Coop</a></b>, un bot discord multitâches, ainsi que sur son <b><a href="https://20syldev.github.io/doc-coopbot/home">Wiki</a></b>b> !
+    Je travaille sur <b><a href="https://beacons.ai/coopbot">Coop</a></b>, un bot discord multitâches, ainsi que sur son <b><a href="https://20syldev.github.io/doc-coopbot/home">Wiki</a></b> !
 </p>
 <hr>
 
