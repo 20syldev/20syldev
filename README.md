@@ -2,11 +2,11 @@
 
 <p align="center">
     <b>Un développeur Web et Discord français.</b>
-    Je travaille sur <b><a href="https://beacons.ai/coopbot">Coop</a></b>, un bot discord multitâches, ainsi que sur son <b><a href="https://20syldev.github.io/doc-coopbot/home">Wiki</a></b> !
+    Je travaille sur <b><a href="https://coopbot.xyz/invite">Coop</a></b>, un bot discord multitâches, ainsi que sur son <b><a href="https://coopbot.xyz">Wiki</a></b> !
 </p>
 <hr>
 
-<h3 align="center">📃 - Langages utilisés pour le <b><a href="https://20syldev.github.io/doc-coopbot/">Wiki</a></b>.</h3>
+<h3 align="center">📃 - Langages utilisés pour le <b><a href="https://coopbot.xyz">Wiki</a></b>.</h3>
 <p align="center">
   <a href="https://github.com/20syldev">
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5"/>
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="center">🔧 - Langages utilisés par le <b><a href="https://beacons.ai/coopbot">Bot</a></b>.</h3>
+<h3 align="center">🔧 - Langages utilisés par le <b><a href="https://coopbot.xyz/invite">Bot</a></b>.</h3>
 <p align="center">
   <a href="https://github.com/20syldev">
     <img src="https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js"/>
