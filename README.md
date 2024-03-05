@@ -1,50 +1,23 @@
-<h1 align="center">👋 Salut, moi c'est 20syl !</h1>
+# 👋 Salut, moi c'est 20syl !
 
-<p align="center">
-    <b>Un développeur Web et Web Designer français.</b>
-    Je travaille sur <b><a href="https://coopbot.xyz/invite">Coop</a></b>, un bot discord multitâches, ainsi que sur son <b><a href="https://coopbot.xyz">Site Internet</a></b> !
-</p>
-<hr>
+### Un développeur Web et Web Designer français.
+Je travaille sur [Coop](https://coopbot.xyz/invite), un bot discord multitâches, ainsi que sur son [Site Internet](https://coopbot.xyz) !
 
-<h3 align="center">📃 - Langages utilisés pour le <b><a href="https://coopbot.xyz">Site Internet</a></b>.</h3>
-<p align="center">
-  <a href="https://github.com/20syldev">
-    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5"/>
-  </a>
-  <a href="https://github.com/20syldev">
-    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3"/> 
-  </a>
-  <a href="https://github.com/20syldev">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/> 
-  </a>
-</p>
+---
 
-<h3 align="center">🔧 - Langages utilisés par le <b><a href="https://coopbot.xyz/invite">Bot Discord</a></b>.</h3>
-<p align="center">
-  <a href="https://github.com/20syldev">
-    <img src="https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js"/>
-  </a>
-  <a href="https://github.com/20syldev">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/> 
-  </a>
-</p>
+### 📃 - Langages utilisés pour le [Site Internet](https://coopbot.xyz).
+> [![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://coopbot.xyz)
+> [![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://coopbot.xyz/status) 
+> [![JS](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://coopbot.xyz/store)
 
+### 🔧 - Langages utilisés par le [Bot Discord](https://coopbot.xyz/invite).
+> [![NodeJs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)](https://coopbot.xyz/invite)
+> [![JS](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript")](https://coopbot.xyz/invite)
 
-
-
-<hr>
+---
 
 <p align="center">
   <a href="https://github.com/20syldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&layout=compact&locale=fr&theme=holi"/>
-  </a>
-  <a href="https://github.com/20syldev">
-    <img src="https://github-readme-stats.vercel.app/api?username=20syldev&show_icons=true&hide_rank=true&theme=holi&include_all_commits=true&hide=stars,contribs&locale=fr&line_height=24"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/20syldev">
-    <img src="https://komarev.com/ghpvc/?username=20syldev&color=69a5dc&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=20syldev&color=69a5dc&style=flat"/>
   </a>
 </p>
