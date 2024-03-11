@@ -2,6 +2,7 @@
 
 ### Un développeur Web et Web Designer français.
 Je travaille sur [Coop](https://coopbot.xyz/invite), un bot discord multitâches, ainsi que sur son [Site Internet](https://coopbot.xyz) !
+J'ai également créé le bot [Coop Status](https://github.com/20syldev/coop-status), un projet privé pour le [serveur support Discord](https://coopbot.xyz/discord). 
 
 ---
 
