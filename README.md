@@ -7,7 +7,12 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 ### Mes projets
 - J'ai développé [Coop](https://coopbot.xyz/invite), un bot discord multitâches, ainsi que son [Site Internet](https://coopbot.xyz) !  
 - J'ai également créé le bot [Coop Status](https://github.com/20syldev/coop-status), un projet privé pour mon [serveur support Discord](https://coopbot.xyz/discord).  
-- Finalement, j'ai accompagné ces deux projets, avec mon [API](https://api.coopbot.xyz), pour Discord principalement, mais qui peut être utilisée sur toutes les plateformes.
+- Aussi, j'ai accompagné ces deux projets, avec mon [API](https://api.coopbot.xyz), pour Discord principalement, mais qui peut être utilisée sur toutes les plateformes.
+
+### Autres projets 
+- Mon portfolio, encore en construction **jusqu'à fin Mars**.
+- Création d'un bot de génération de codes aléatoires pour Discord
+- Développement d'un site base de donnée
 
 #
 
