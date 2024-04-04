@@ -10,9 +10,9 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - Aussi, j'ai accompagné ces deux projets, avec mon [API](https://api.coopbot.xyz), pour Discord principalement, mais qui peut être utilisée sur toutes les plateformes.
 
 ### Autres projets 
-- Mon portfolio, encore en construction **jusqu'à fin Mars**.
-- Création d'un bot de génération de codes aléatoires pour Discord
-- Développement d'un site base de donnée
+- Mon [portfolio](https://sylvain.pro), avec son [dépôt](https://github.com/20syldev/portfolio) épinglé sur mon profil
+- Création d'un bot de génération de codes aléatoires pour Discord ([cliquez ici](https://github.com/20syldev/nitrogen))
+- Développement d'un site base de données
 
 #
 
