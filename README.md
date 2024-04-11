@@ -1,5 +1,11 @@
 # 👋 Salut, moi c'est 20syl !
 
+[![Site](https://img.shields.io/badge/sylvain.pro-687fc4?logo=artifacthub&logoColor=white)](https://sylvain.pro)
+[![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
+[![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/app)
+[![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
+[![GitHub](https://img.shields.io/badge/20syl__-7f3de0?logo=Twitch&logoColor=white)](https://twitch.tv/20syl__)
+
 ### Un développeur Web et Web Designer français.
 Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js**, **Node.js**, **Discord.js** et **Python**.
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
