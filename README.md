@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est 20syl !
+# 👋 Salut, moi c'est Sylvain !
 
 [![Site](https://img.shields.io/badge/sylvain.pro-687fc4?logo=artifacthub&logoColor=white)](https://sylvain.pro)
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
