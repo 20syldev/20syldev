@@ -37,6 +37,6 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 
 <div align="center">
   <a href="https://github.com/20syldev">
-    <img src="https://komarev.com/ghpvc/?username=20syldev&color=69a5dc&style=flat"/>
+    <img src="https://komarev.com/ghpvc/?username=20syldev&color=69a5dc&style=flat&label=Vues+du+profil"/>
   </a>
 </div>
