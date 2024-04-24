@@ -14,9 +14,9 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - Mon [portfolio](https://sylvain.pro), un site rassemblant plein d'informations sur moi, mes [projets](https://projets.sylvain.pro), comment me contacter...
 - Développement de mon [API personnelle](https://api.sylvain.pro), disponible en anglais et en français.
 - J'ai développé [Coop](https://coopbot.xyz/invite), un bot discord multitâches, ainsi que son [Site Internet](https://coopbot.xyz) !  
-- J'ai également créé le bot [Coop Status](https://github.com/20syldev/coop-status), un projet privé pour mon [serveur support Discord](https://coopbot.xyz/discord).  
+- J'ai également créé le bot [Coop Status](https://github.com/20syldev/coop-status#readme), un projet privé pour mon [serveur support Discord](https://coopbot.xyz/discord).  
 - Aussi, j'ai accompagné ces deux projets, de [Coop API](https://api.coopbot.xyz), l'API du bot (pour Discord principalement), qui peut être utilisée sur toutes les plateformes.
-- Création de **NitroGen**, d'un bot de génération de codes aléatoires pour Discord. [En savoir plus](https://github.com/20syldev/nitrogen)
+- Création de **NitroGen**, d'un bot de génération de codes aléatoires pour Discord. [En savoir plus](https://github.com/20syldev/nitrogen#readme)
 
 ---
 
