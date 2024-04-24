@@ -11,7 +11,7 @@ Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS*
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
 ### Mes projets
-- Mon [portfolio](https://sylvain.pro), un site rassemblant plein d'informations sur moi, mes projets, comment me contacter...
+- Mon [portfolio](https://sylvain.pro), un site rassemblant plein d'informations sur moi, mes [projets](https://projets.sylvain.pro), comment me contacter...
 - Développement de mon [API personnelle](https://api.sylvain.pro), disponible en anglais et en français.
 - J'ai développé [Coop](https://coopbot.xyz/invite), un bot discord multitâches, ainsi que son [Site Internet](https://coopbot.xyz) !  
 - J'ai également créé le bot [Coop Status](https://github.com/20syldev/coop-status), un projet privé pour mon [serveur support Discord](https://coopbot.xyz/discord).  
