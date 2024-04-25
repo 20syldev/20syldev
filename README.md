@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/badge/20syl__-7f3de0?logo=Twitch&logoColor=white)](https://twitch.tv/20syl__)
 
 ### Un développeur Web et Web Designer français.
-Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js**, **Node.js**, **Discord.js** et **Python**.
+Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
 ### Mes projets
