@@ -10,7 +10,7 @@
 Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
-### Mes projets
+## 🔧 Mes projets
 - Mon [portfolio](https://sylvain.pro), un site rassemblant plein d'informations sur moi, mes [projets](https://projets.sylvain.pro), comment me contacter...
 - Développement de mon [API personnelle](https://api.sylvain.pro), disponible en anglais et en français.
 - Ajout récent de ma [base de donnée privée](https://20syldev.github.io/database), avec une authentification sur une page statique, prouesse réalisée grâce à un chiffrement de mon fichier HTML.
