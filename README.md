@@ -1,10 +1,11 @@
 # 👋 Salut, moi c'est Sylvain !
 
-[![Site](https://img.shields.io/badge/sylvain.pro-687fc4?logo=artifacthub&logoColor=white)](https://sylvain.pro)
-[![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
-[![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/app)
+[![Site](https://img.shields.io/badge/sylvain.pro-7996ed?logo=artifacthub&logoColor=white)](https://sylvain.pro)
+[![API](https://img.shields.io/badge/api.sylvain.pro-6a6aeb?logo=buddy&logoColor=white)](https://api.sylvain.pro)
+[![API](https://img.shields.io/badge/projets.sylvain.pro-9c6fe3?logo=openbadges&logoColor=white)](https://projets.sylvain.pro)
 [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
-[![Twitch](https://img.shields.io/badge/20syl__-7f3de0?logo=Twitch&logoColor=white)](https://twitch.tv/20syl__)
+[![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/app)
+[![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
 
 ### Un développeur Web et Web Designer français.
 Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
