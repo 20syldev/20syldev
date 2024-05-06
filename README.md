@@ -1,11 +1,11 @@
 # 👋 Salut, moi c'est Sylvain !
 
-[![Site](https://img.shields.io/badge/sylvain.pro-7996ed?logo=artifacthub&logoColor=white)](https://sylvain.pro)
-[![API](https://img.shields.io/badge/api.sylvain.pro-6a6aeb?logo=buddy&logoColor=white)](https://api.sylvain.pro)
-[![API](https://img.shields.io/badge/projets.sylvain.pro-9c6fe3?logo=openbadges&logoColor=white)](https://projets.sylvain.pro)
-[![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
-[![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/app)
-[![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
+<a href="https://sylvain.pro" target="_blank"><img src="https://img.shields.io/badge/sylvain.pro-7996ed?logo=artifacthub&logoColor=white"/></a>
+<a href="https://api.sylvain.pro" target="_blank"><img src="https://img.shields.io/badge/api.sylvain.pro-6a6aeb?logo=buddy&logoColor=white"/></a>
+<a href="https://projets.sylvain.pro" target="_blank"><img src="https://img.shields.io/badge/projets.sylvain.pro-9c6fe3?logo=openbadges&logoColor=white"/></a>
+<a href="https://github.com/20syldev"><img src="https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white"/></a>
+<a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sylvainlmb" target="_blank"><img src="https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white"/></a>
 
 ### Un développeur Web et Web Designer français.
 Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
