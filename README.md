@@ -8,18 +8,20 @@
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
 
 ### Un développeur Web et Web Designer français.
-Je créé des sites web, des api ou encore des bots. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
+Je créé des sites web, des APIs et des outils de gestion de serveur. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
 ## 🔧 Mes projets
-- Mon [portfolio](https://sylvain.pro), un site rassemblant plein d'informations sur moi, mes [projets](https://projets.sylvain.pro), comment me contacter...
-- Développement de mon [API personnelle](https://api.sylvain.pro), disponible en anglais et en français.
-- Ajout récent de ma [base de donnée privée](https://database.sylvain.pro), avec une authentification sur une page statique, prouesse réalisée grâce à un chiffrement de mon fichier HTML.
-- J'ai développé [Coop](https://coopbot.xyz/invite), un bot discord multitâches, ainsi que son [Site Internet](https://coopbot.xyz) !  
-- J'ai également créé le bot [Coop Status](https://github.com/20syldev/coop-status#readme), un projet privé pour mon [serveur support Discord](https://coopbot.xyz/discord).  
-- Aussi, j'ai accompagné ces deux projets, de [Coop API](https://api.coopbot.xyz), l'API du bot (pour Discord principalement), qui peut être utilisée sur toutes les plateformes.
-- Création de **NitroGen**, d'un bot de génération de codes aléatoires pour Discord. [En savoir plus](https://github.com/20syldev/nitrogen#readme)
+- Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **[projets](https://projets.sylvain.pro)**, comment me contacter...
+- Développement de mon **[API personnelle](https://api.sylvain.pro)**, disponible en anglais et en français.
+- Création de ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique, prouesse réalisée grâce à un chiffrement de mon fichier HTML.
+- J'ai développé **[Coop](https://coopbot.xyz/invite)**, un bot discord multitâches, ainsi que son **[site Internet](https://coopbot.xyz)** !  
+- J'ai également créé le bot **[Coop Status](https://github.com/20syldev/coop-status#readme)**, un bot unique pour mon **[serveur support Discord](https://coopbot.xyz/discord)**.  
+- Aussi, j'ai accompagné ces deux projets, de **[Coop API](https://api.coopbot.xyz)** *(l'API du bot pour Discord principalement)*, d'un **[magasin](https://store.coopbot.xyz)** et d'une **[page de statut](https://status.coopbot.xyz)**.
+- Déploiement de **[NitroGen](https://github.com/20syldev/nitrogen#readme)**, un bot de génération de codes aléatoires pour Discord. [En savoir plus](https://github.com/20syldev/nitrogen#readme)
 
+> [!WARNING]
+> **[GitSite](https://gitsite.dev)**, est en cours de création et c'est l'un de mes plus gros projets. Sa création a tout juste commencé.
 ---
 
 <div align="center">
@@ -27,9 +29,9 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   Vous pouvez cliquez sur les différents boutons ci-dessous pour aller directement voir le dépôt de chacun !
   <br><br>
   <a href="https://github.com/20syldev"><img src="https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/20syldev/gitsite#readme"><img src="https://img.shields.io/badge//gitsite-3857ab"/></a>
   <a href="https://github.com/20syldev/portfolio#readme"><img src="https://img.shields.io/badge//portfolio-3857ab"/></a>
   <a href="https://github.com/20syldev/api#readme"><img src="https://img.shields.io/badge//api-3857ab"/></a>
-  <a href="https://github.com/20syldev/gitsite#readme"><img src="https://img.shields.io/badge//gitsite-3857ab"/></a>
   <a href="https://github.com/20syldev/database#readme"><img src="https://img.shields.io/badge//database-3857ab"/></a>
   <a href="https://github.com/20syldev/doc-coopbot#readme"><img src="https://img.shields.io/badge//doc&#8722;coopbot-3857ab"/></a>
   <a href="https://github.com/20syldev/coop-status#readme"><img src="https://img.shields.io/badge//coop&#8722;status-3857ab"/></a>
