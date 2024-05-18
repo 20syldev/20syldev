@@ -17,7 +17,7 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - Création de ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique, prouesse réalisée grâce à un chiffrement de mon fichier HTML.
 - J'ai développé **[Coop](https://coopbot.xyz/invite)**, un bot discord multitâches, ainsi que son **[site Internet](https://coopbot.xyz)** !  
 - J'ai également créé le bot **[Coop Status](https://github.com/20syldev/coop-status#readme)**, un bot unique pour mon **[serveur support Discord](https://coopbot.xyz/discord)**.  
-- Aussi, j'ai accompagné ces deux projets, de **[Coop API](https://api.coopbot.xyz)** *(l'API du bot pour Discord principalement)*, d'un **[magasin](https://store.coopbot.xyz)** et d'une **[page de statut](https://status.coopbot.xyz)**.
+- Aussi, j'ai accompagné ces deux projets, d'un **[magasin](https://store.coopbot.xyz)** et d'une **[page de statut](https://status.coopbot.xyz)**.
 - Déploiement de **[NitroGen](https://github.com/20syldev/nitrogen#readme)**, un bot de génération de codes aléatoires pour Discord. [En savoir plus](https://github.com/20syldev/nitrogen#readme)
 
 > [!WARNING]
@@ -35,7 +35,6 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   <a href="https://github.com/20syldev/database#readme"><img src="https://img.shields.io/badge//database-3857ab"/></a>
   <a href="https://github.com/20syldev/doc-coopbot#readme"><img src="https://img.shields.io/badge//doc&#8722;coopbot-3857ab"/></a>
   <a href="https://github.com/20syldev/coop-status#readme"><img src="https://img.shields.io/badge//coop&#8722;status-3857ab"/></a>
-  <a href="https://github.com/20syldev/coop-api#readme"><img src="https://img.shields.io/badge//coop&#8722;api-3857ab"/></a>
   <a href="https://github.com/20syldev/nitrogen#readme"><img src="https://img.shields.io/badge//nitrogen-3857ab"/></a>
 </div>
 
