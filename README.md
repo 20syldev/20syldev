@@ -12,14 +12,14 @@ Je créé des sites web, des APIs et des outils de gestion de serveur. Je code e
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
 ## 🔧 Mes projets
-- **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc.
+- **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc. [En savoir plus](https://github.com/20syldev/gitsite#quest-ce-que-gitsite-)
 - Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **[projets](https://projets.sylvain.pro)**, comment me contacter...
 - Développement de mon **[API personnelle](https://api.sylvain.pro)**, disponible en anglais et en français.
 - Création de ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique, prouesse réalisée grâce à un chiffrement de mon fichier HTML.
 - J'ai développé **[Coop](https://coopbot.xyz/invite)**, un bot discord multitâches, ainsi que son **[site Internet](https://coopbot.xyz)** !  
 - J'ai également créé le bot **[Coop Status](https://github.com/20syldev/coop-status#readme)**, un bot unique pour mon **[serveur support Discord](https://coopbot.xyz/discord)**.  
 - Aussi, j'ai accompagné ces deux projets, d'un **[magasin](https://store.coopbot.xyz)** et d'une **[page de statut](https://status.coopbot.xyz)**.
-- Déploiement de **[NitroGen](https://github.com/20syldev/nitrogen#readme)**, un bot de génération de codes aléatoires pour Discord. [En savoir plus](https://github.com/20syldev/nitrogen#readme)
+- Déploiement de **[NitroGen](https://github.com/20syldev/nitrogen#readme)**, un bot de génération de codes aléatoires pour Discord.
 
 ---
 
