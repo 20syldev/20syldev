@@ -11,7 +11,8 @@
 Je créé des sites web, des APIs et des outils de gestion de serveur. Je code en **HTML**, **CSS**, **Js** (Node.js & Discord.js) et **Python** (Flask) principalement.
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
-## 🔧 Mes projets
+## 🔧 Mes projets 
+
 - **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc. [En savoir plus](https://github.com/20syldev/gitsite#quest-ce-que-gitsite-)
 - Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **[projets](https://projets.sylvain.pro)**, comment me contacter...
 - Développement de mon **[API personnelle](https://api.sylvain.pro)**, disponible en anglais et en français.
@@ -24,9 +25,20 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 ---
 
 <div align="center">
-  <h1>Accès Rapide</h1>
+  <h1>
+    <a href="https://github.com/20syldev"><img src="https://github.githubassets.com/favicons/favicon-dark.svg" width="16" height="16"/></a>
+    <a href="https://gitsite.dev"><img src="https://sylvain.pro/images/gitsite.png" width="16" height="16"/></a>
+    <a href="https://sylvain.pro"><img src="https://sylvain.pro/images/portfolio.png" width="16" height="16"/></a>
+    <a href="https://api.sylvain.pro"><img src="https://sylvain.pro/images/api.png" width="16" height="16"/></a> 
+      &nbsp; Accès Rapide &nbsp; 
+    <a href="https://database.sylvain.pro"><img src="https://sylvain.pro/images/database.png" width="16" height="16"/></a>
+    <a href="https://coopbot.xyz"><img src="https://sylvain.pro/images/coopbot.png" width="16" height="16"/></a>
+    <a href="https://status.coopbot.xyz"><img src="https://sylvain.pro/images/coopstatus.png" width="16" height="16"/></a>
+    <a href="https://github.com/20syldev/nitrogen#readme"><img src="https://sylvain.pro/images/nitrogen.png" width="16" height="16"/></a>
+  </h1>
+  
   Vous pouvez cliquez sur les différents boutons ci-dessous pour aller directement voir le dépôt de chacun !
-  <br><br>
+  
   <a href="https://github.com/20syldev"><img src="https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white"/></a>
   <a href="https://github.com/20syldev/gitsite#readme"><img src="https://img.shields.io/badge//gitsite-3857ab"/></a>
   <a href="https://github.com/20syldev/portfolio#readme"><img src="https://img.shields.io/badge//portfolio-3857ab"/></a>
