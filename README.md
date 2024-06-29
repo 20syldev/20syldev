@@ -23,13 +23,13 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - Déploiement de **[NitroGen](https://github.com/20syldev/nitrogen#readme)**, un bot de génération de codes aléatoires pour Discord.
 
 > [!NOTE]
-> Un nouveau projet, **[GemShades](https://github.com/20syldev/gemshades)** est en cours de création, cliquez [ici](https://github.com/20syldev/gemshades#readme) pour en savoir plus !
+> Un nouveau projet, **[GemSync](https://github.com/20syldev/gemsync)** est en cours de création, cliquez [ici](https://github.com/20syldev/gemsync#readme) pour en savoir plus !
 
 ---
 
 <div align="center">
   <h1>
-    <a href="https://gitsite.dev"><img src="https://sylvain.pro/images/gemshades.png" width="16" height="16"/></a>
+    <a href="https://gemsync.xyz"><img src="https://sylvain.pro/images/gemsync.png" width="16" height="16"/></a>
     <a href="https://gitsite.dev"><img src="https://sylvain.pro/images/gitsite.png" width="16" height="16"/></a>
     <a href="https://sylvain.pro"><img src="https://sylvain.pro/images/portfolio.png" width="16" height="16"/></a>
     <a href="https://api.sylvain.pro"><img src="https://sylvain.pro/images/api.png" width="16" height="16"/></a> 
@@ -43,7 +43,7 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   Vous pouvez cliquez sur les différents boutons ci-dessous pour aller directement voir le dépôt de chacun !
   
   <a href="https://github.com/20syldev"><img src="https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white"/></a>
-  <a href="https://github.com/20syldev/gemshades#readme"><img src="https://img.shields.io/badge//gemshades-3857ab"/></a>
+  <a href="https://github.com/20syldev/gemsync#readme"><img src="https://img.shields.io/badge//gemsync-3857ab"/></a>
   <a href="https://github.com/20syldev/gitsite#readme"><img src="https://img.shields.io/badge//gitsite-3857ab"/></a>
   <a href="https://github.com/20syldev/portfolio#readme"><img src="https://img.shields.io/badge//portfolio-3857ab"/></a>
   <a href="https://github.com/20syldev/api#readme"><img src="https://img.shields.io/badge//api-3857ab"/></a>
