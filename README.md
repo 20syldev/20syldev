@@ -12,7 +12,7 @@ Je créé des sites web, des APIs et des outils de gestion de serveur. Je code e
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
 ## 🔧 Mes projets 
-
+- **[GemSync](https://gemsync.xyz)**, une plateforme pour vous aider à faciliter la **mise en ligne** de votre site Internet et la **configuration** d'un domaine personnalisé, et **bien plus** !
 - **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc. [En savoir plus](https://github.com/20syldev/gitsite#quest-ce-que-gitsite-)
 - Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **[projets](https://projets.sylvain.pro)**, comment me contacter...
 - Développement de mon **[API personnelle](https://api.sylvain.pro)**, disponible en anglais et en français.
@@ -21,9 +21,6 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - J'ai également créé le bot **[Coop Status](https://github.com/20syldev/coop-status#readme)**, un bot unique pour mon **[serveur support Discord](https://coopbot.xyz/discord)**.  
 - Aussi, j'ai accompagné ces deux projets, d'un **[magasin](https://store.coopbot.xyz)** et d'une **[page de statut](https://status.coopbot.xyz)**.
 - Déploiement de **[NitroGen](https://github.com/20syldev/nitrogen#readme)**, un bot de génération de codes aléatoires pour Discord.
-
-> [!NOTE]
-> Un nouveau projet, **[GemSync](https://github.com/20syldev/gemsync)** est en cours de création, cliquez [ici](https://github.com/20syldev/gemsync#readme) pour en savoir plus !
 
 ---
 
