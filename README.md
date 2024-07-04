@@ -25,17 +25,7 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 ---
 
 <div align="center">
-  <h1>
-    <a href="https://gemsync.xyz"><img src="https://sylvain.pro/images/gemsync.png" width="16" height="16"/></a>
-    <a href="https://gitsite.dev"><img src="https://sylvain.pro/images/gitsite.png" width="16" height="16"/></a>
-    <a href="https://sylvain.pro"><img src="https://sylvain.pro/images/portfolio.png" width="16" height="16"/></a>
-    <a href="https://api.sylvain.pro"><img src="https://sylvain.pro/images/api.png" width="16" height="16"/></a> 
-      &nbsp; Accès Rapide &nbsp; 
-    <a href="https://database.sylvain.pro"><img src="https://sylvain.pro/images/database.png" width="16" height="16"/></a>
-    <a href="https://coopbot.xyz"><img src="https://sylvain.pro/images/coopbot.png" width="16" height="16"/></a>
-    <a href="https://status.coopbot.xyz"><img src="https://sylvain.pro/images/coopstatus.png" width="16" height="16"/></a>
-    <a href="https://github.com/20syldev/nitrogen#readme"><img src="https://sylvain.pro/images/nitrogen.png" width="16" height="16"/></a>
-  </h1>
+  <h1>Accès Rapide</h1>
   
   Vous pouvez cliquez sur les différents boutons ci-dessous pour aller directement voir le dépôt de chacun !
   
