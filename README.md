@@ -4,7 +4,7 @@
 [![API](https://img.shields.io/badge/api.sylvain.pro-6a6aeb?logo=buddy&logoColor=white)](https://api.sylvain.pro)
 [![API](https://img.shields.io/badge/database.sylvain.pro-5271ff?logo=databricks&logoColor=white)](https://database.sylvain.pro)
 [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
-[![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/app)
+[![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/607163002755481602)
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
 
 ### Un développeur Web et Web Designer français.
@@ -13,8 +13,8 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 
 ## 🔧 Mes projets 
 - **[GemSync](https://gemsync.xyz)**, une plateforme pour vous aider à faciliter la **mise en ligne** de votre site Internet et la **configuration** d'un domaine personnalisé, et **bien plus** !
-- **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc. [En savoir plus](https://github.com/20syldev/gitsite#quest-ce-que-gitsite-)
-- Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **[projets](https://projets.sylvain.pro)**, comment me contacter...
+- **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc.
+- Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **projets**, comment me contacter...
 - Développement de mon **[API personnelle](https://api.sylvain.pro)**, disponible en anglais et en français.
 - Création de ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique, prouesse réalisée grâce à un chiffrement de mon fichier HTML.
 - J'ai développé **[Coop](https://coopbot.xyz/invite)**, un bot discord multitâches, ainsi que son **[site Internet](https://coopbot.xyz)** !  
