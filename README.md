@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
 
 ### Un développeur Web et Web Designer français.
-Je créé des sites web, des APIs et des outils de gestion de serveur. Je code en **HTML**, **CSS**, **Js** (React.js, Node.js, Vue.js & Discord.js), **C++**, **C#**, **Ruby**, **Swift** et **Python**.
+Je créé des sites web, des APIs et des outils de gestion de serveur. Je code en **HTML**, **CSS**, **Js** (React.js, Node.js, Vue.js & Discord.js), **Shell**, **C++**, **C#**, **Ruby**, **Swift** et **Python**.
 J'adore faire ça pour développer ma créativité, faciliter l'utilisation de certaines applications ou juste pour m'entraîner !
 
 ## 🔧 Mes projets 
