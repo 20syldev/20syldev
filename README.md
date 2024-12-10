@@ -3,7 +3,8 @@
 [![Site](https://img.shields.io/badge/sylvain.pro-566cc7?logo=artifacthub&logoColor=white)](https://sylvain.pro)
 [![API](https://img.shields.io/badge/api.sylvain.pro-5661c7?logo=buddy&logoColor=white)](https://api.sylvain.pro)
 [![Docs](https://img.shields.io/badge/docs.sylvain.pro-5252bf?logo=gitbook&logoColor=white)](https://docs.sylvain.pro)
-[![Database](https://img.shields.io/badge/database.sylvain.pro-566fe3?logo=databricks&logoColor=white)](https://database.sylvain.pro)
+[![Flowers](https://img.shields.io/badge/flowers.sylvain.pro-566fe3?logo=databricks&logoColor=white)](https://flowers.sylvain.pro)
+[![Terminal](https://img.shields.io/badge/terminal.sylvain.pro-566fe3?logo=opentofu&logoColor=white)](https://terminal.sylvain.pro)
 [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
 [![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/607163002755481602)
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
@@ -16,7 +17,10 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **projets**, comment me contacter...
 - Mon **[API personnelle](https://api.sylvain.pro)**, faite en Node.js, récémment **mise à jour** !
 - La **[documentation](https://docs.sylvain.pro)**, de mon **API**, récémment **mise à jour** !
+- Ma **[base de donnée](https://docs.sylvain.pro)**, de mon **API**, récémment **mise à jour** !
+- Mon **[terminal](https://terminal.sylvain.pro)**, réalisé avec **JavaScript** et qui contient les commandes de base d'un terminal **Linux**.
 - Ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique (sans serveur), avec un chiffrement du HTML.
+- **[Flowers](https://flowers.sylvain.pro)**, un projet en cours de **développement**, qui permettra de créer sa **propre base de données** !
 - **[GemSync](https://gemsync.xyz)**, une plateforme pour vous aider à faciliter la **mise en ligne** de votre site Internet et la **configuration** d'un domaine personnalisé, et **bien plus** !
 - **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc.
 - **[Coop](https://coopbot.xyz/invite)**, un bot discord multitâches, son **[site Internet](https://coopbot.xyz)**, un **[magasin](https://store.coopbot.xyz)** et une **[page de statut](https://status.coopbot.xyz)** !  
@@ -34,7 +38,9 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   <a href="https://github.com/20syldev/portfolio#readme"><img src="https://img.shields.io/badge//portfolio-3857ab"/></a>
   <a href="https://github.com/20syldev/api#readme"><img src="https://img.shields.io/badge//api-3857ab"/></a>
   <a href="https://github.com/20syldev/docs#readme"><img src="https://img.shields.io/badge//docs-3857ab"/></a>
+  <a href="https://github.com/20syldev/terminals#readme"><img src="https://img.shields.io/badge//terminal-3857ab"/></a>
   <a href="https://github.com/20syldev/database#readme"><img src="https://img.shields.io/badge//database-3857ab"/></a>
+  <a href="https://github.com/20syldev/flowers#readme"><img src="https://img.shields.io/badge//flowers-3857ab"/></a>
   <a href="https://github.com/20syldev/GemSync#readme"><img src="https://img.shields.io/badge//GemSync-3857ab"/></a>
   <a href="https://github.com/20syldev/GitSite#readme"><img src="https://img.shields.io/badge//GitSite-3857ab"/></a>
   <a href="https://github.com/20syldev/doc-coopbot#readme"><img src="https://img.shields.io/badge//doc&#8722;coopbot-3857ab"/></a>
