@@ -38,7 +38,7 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   <a href="https://github.com/20syldev/portfolio#readme"><img src="https://img.shields.io/badge//portfolio-3857ab"/></a>
   <a href="https://github.com/20syldev/api#readme"><img src="https://img.shields.io/badge//api-3857ab"/></a>
   <a href="https://github.com/20syldev/docs#readme"><img src="https://img.shields.io/badge//docs-3857ab"/></a>
-  <a href="https://github.com/20syldev/terminals#readme"><img src="https://img.shields.io/badge//terminal-3857ab"/></a>
+  <a href="https://github.com/20syldev/terminal#readme"><img src="https://img.shields.io/badge//terminal-3857ab"/></a>
   <a href="https://github.com/20syldev/database#readme"><img src="https://img.shields.io/badge//database-3857ab"/></a>
   <a href="https://github.com/20syldev/flowers#readme"><img src="https://img.shields.io/badge//flowers-3857ab"/></a>
   <a href="https://github.com/20syldev/GemSync#readme"><img src="https://img.shields.io/badge//GemSync-3857ab"/></a>
