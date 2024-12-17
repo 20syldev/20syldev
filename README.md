@@ -15,11 +15,10 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 
 ## 🔧 Mes projets 
 - Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **projets**, comment me contacter...
-- Mon **[API personnelle](https://api.sylvain.pro)**, faite en Node.js, récémment **mise à jour** !
-- La **[documentation](https://docs.sylvain.pro)**, de mon **API**, récémment **mise à jour** !
-- Ma nouvelle **[base de donnée](https://flowers.sylvain.pro)** privée en cours de **développement** !
+- Mon **[API personnelle](https://api.sylvain.pro)**, faite en Node.js, récemment **mise à jour** !
+- La **[documentation](https://docs.sylvain.pro)**, de mon **API**, récemment **mise à jour** !
 - Mon **[terminal](https://terminal.sylvain.pro)**, réalisé avec **JavaScript** et qui contient les commandes de base d'un terminal **Linux**.
-- Ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique (sans serveur), avec un chiffrement du HTML.
+- Ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique (sans serveur), grâce à un chiffrement du HTML.
 - **[Flowers](https://flowers.sylvain.pro)**, un projet en cours de **développement**, qui permettra de créer sa **propre base de données** !
 - **[GemSync](https://gemsync.xyz)**, une plateforme pour vous aider à faciliter la **mise en ligne** de votre site Internet et la **configuration** d'un domaine personnalisé, et **bien plus** !
 - **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc.
