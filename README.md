@@ -1,10 +1,11 @@
 # 👋 Salut, moi c'est Sylvain !
 
-[![Site](https://img.shields.io/badge/sylvain.pro-566cc7?logo=artifacthub&logoColor=white)](https://sylvain.pro)
-[![API](https://img.shields.io/badge/api.sylvain.pro-5661c7?logo=buddy&logoColor=white)](https://api.sylvain.pro)
-[![Docs](https://img.shields.io/badge/docs.sylvain.pro-5252bf?logo=gitbook&logoColor=white)](https://docs.sylvain.pro)
-[![Flowers](https://img.shields.io/badge/flowers.sylvain.pro-566fe3?logo=databricks&logoColor=white)](https://flowers.sylvain.pro)
-[![Terminal](https://img.shields.io/badge/terminal.sylvain.pro-566fe3?logo=opentofu&logoColor=white)](https://terminal.sylvain.pro)
+[![Site](https://img.shields.io/badge/sylvain.pro-566fe3?logo=artifacthub&logoColor=white)](https://sylvain.pro)
+[![API](https://img.shields.io/badge/api.sylvain.pro-5b74e0?logo=buddy&logoColor=white)](https://api.sylvain.pro)
+[![Docs](https://img.shields.io/badge/docs.sylvain.pro-6079dd?logo=gitbook&logoColor=white)](https://docs.sylvain.pro)
+[![Logs](https://img.shields.io/badge/logs.sylvain.pro-647ed9?logo=dialogflow&logoColor=white)](https://logs.sylvain.pro)
+[![Flowers](https://img.shields.io/badge/flowers.sylvain.pro-6883d6?logo=databricks&logoColor=white)](https://flowers.sylvain.pro)
+[![Terminal](https://img.shields.io/badge/terminal.sylvain.pro-6c88d2?logo=opentofu&logoColor=white)](https://terminal.sylvain.pro)
 [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
 [![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/607163002755481602)
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
@@ -15,10 +16,11 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 
 ## 🔧 Mes projets 
 - Mon **[portfolio](https://sylvain.pro)**, un site rassemblant plein d'informations sur moi, mes **projets**, comment me contacter...
-- Mon **[API personnelle](https://api.sylvain.pro)**, faite en Node.js, récemment **mise à jour** !
-- La **[documentation](https://docs.sylvain.pro)**, de mon **API**, récemment **mise à jour** !
+- Mon **[API personnelle](https://api.sylvain.pro)**, faite en Node.js, **hébergée** 24/7 !
+- La **[documentation](https://docs.sylvain.pro)**, de mon **API** personnelle !
+- Mon interface de **[logs](https://logs.sylvain.pro)**, pour l'**API**, pour voir les derniers **appels**...
 - Mon **[terminal](https://terminal.sylvain.pro)**, réalisé avec **JavaScript** et qui contient les commandes de base d'un terminal **Linux**.
-- Ma **[base de donnée privée](https://database.sylvain.pro)**, avec une authentification sur une page statique (sans serveur), grâce à un chiffrement du HTML.
+- Ma **[base de donnée privée](https://database.sylvain.pro)**, avec une **authentification** sur une page statique (sans serveur), grâce à un chiffrement du HTML.
 - **[Flowers](https://flowers.sylvain.pro)**, un projet en cours de **développement**, qui permettra de créer sa **propre base de données** !
 - **[GemSync](https://gemsync.xyz)**, une plateforme pour vous aider à faciliter la **mise en ligne** de votre site Internet et la **configuration** d'un domaine personnalisé, et **bien plus** !
 - **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc.
@@ -37,6 +39,7 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   <a href="https://github.com/20syldev/portfolio#readme"><img src="https://img.shields.io/badge//portfolio-3857ab"/></a>
   <a href="https://github.com/20syldev/api#readme"><img src="https://img.shields.io/badge//api-3857ab"/></a>
   <a href="https://github.com/20syldev/docs#readme"><img src="https://img.shields.io/badge//docs-3857ab"/></a>
+  <a href="https://github.com/20syldev/logs#readme"><img src="https://img.shields.io/badge//logs-3857ab"/></a>
   <a href="https://github.com/20syldev/terminal#readme"><img src="https://img.shields.io/badge//terminal-3857ab"/></a>
   <a href="https://github.com/20syldev/database#readme"><img src="https://img.shields.io/badge//database-3857ab"/></a>
   <a href="https://github.com/20syldev/flowers#readme"><img src="https://img.shields.io/badge//flowers-3857ab"/></a>
