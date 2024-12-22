@@ -6,7 +6,6 @@
 [![Logs](https://img.shields.io/badge/logs.sylvain.pro-647ed9?logo=dialogflow&logoColor=white)](https://logs.sylvain.pro)
 [![Flowers](https://img.shields.io/badge/flowers.sylvain.pro-6883d6?logo=databricks&logoColor=white)](https://flowers.sylvain.pro)
 [![Terminal](https://img.shields.io/badge/terminal.sylvain.pro-6c88d2?logo=opentofu&logoColor=white)](https://terminal.sylvain.pro)
-[![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
 [![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/607163002755481602)
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
 
