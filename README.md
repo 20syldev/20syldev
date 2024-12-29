@@ -5,7 +5,6 @@
 [![Docs](https://img.shields.io/badge/docs.sylvain.pro-6079dd?logo=gitbook&logoColor=white)](https://docs.sylvain.pro)
 [![Logs](https://img.shields.io/badge/logs.sylvain.pro-647ed9?logo=dialogflow&logoColor=white)](https://logs.sylvain.pro)
 [![Flowers](https://img.shields.io/badge/flowers.sylvain.pro-6883d6?logo=databricks&logoColor=white)](https://flowers.sylvain.pro)
-[![Terminal](https://img.shields.io/badge/terminal.sylvain.pro-6c88d2?logo=opentofu&logoColor=white)](https://terminal.sylvain.pro)
 [![Discord](https://img.shields.io/badge/@20syl_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/607163002755481602)
 [![Linkedin](https://img.shields.io/badge/sylvainlmb-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sylvainlmb)](https://linkedin.com/in/sylvainlmb)
 
@@ -20,7 +19,9 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 - Mon interface de **[logs](https://logs.sylvain.pro)**, pour l'**API**, pour voir les derniers **appels**...
 - Mon **[terminal](https://terminal.sylvain.pro)**, réalisé avec **JavaScript** et qui contient les commandes de base d'un terminal **Linux**.
 - Ma **[base de donnée privée](https://database.sylvain.pro)**, avec une **authentification** sur une page statique (sans serveur), grâce à un chiffrement du HTML.
-- **[Flowers](https://flowers.sylvain.pro)**, un projet en cours de **développement**, qui permettra de créer sa **propre base de données** !
+- **[Flowers](https://flowers.sylvain.pro)**, un LogCenter **customisable** en cours de **développement** !
+- **[Digit](https://digit.sylvain.pro)**, une application web de reconnaissance de chiffres, basée sur un réseau de neurones en JavaScript.
+- **[Donut](https://donut.sylvain.pro)**, une **animation** d'un donut en rotation en **JavaScript** avec quelques **interactions** possibles.
 - **[GemSync](https://gemsync.xyz)**, une plateforme pour vous aider à faciliter la **mise en ligne** de votre site Internet et la **configuration** d'un domaine personnalisé, et **bien plus** !
 - **[GitSite](https://gitsite.dev)**, mon site d'hébergement, qui permet d'**héberger son site pour pas cher**, et qui prend en charge la configuration du DNS, des sous-domaines, etc.
 - **[Coop](https://coopbot.xyz/invite)**, un bot discord multitâches, son **[site Internet](https://coopbot.xyz)**, un **[magasin](https://store.coopbot.xyz)** et une **[page de statut](https://status.coopbot.xyz)** !  
@@ -42,6 +43,8 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
   <a href="https://github.com/20syldev/terminal#readme"><img src="https://img.shields.io/badge//terminal-3857ab"/></a>
   <a href="https://github.com/20syldev/database#readme"><img src="https://img.shields.io/badge//database-3857ab"/></a>
   <a href="https://github.com/20syldev/flowers#readme"><img src="https://img.shields.io/badge//flowers-3857ab"/></a>
+  <a href="https://github.com/20syldev/digit#readme"><img src="https://img.shields.io/badge//digit-3857ab"/></a>
+  <a href="https://github.com/20syldev/donut#readme"><img src="https://img.shields.io/badge//donut-3857ab"/></a>
   <a href="https://github.com/20syldev/GemSync#readme"><img src="https://img.shields.io/badge//GemSync-3857ab"/></a>
   <a href="https://github.com/20syldev/GitSite#readme"><img src="https://img.shields.io/badge//GitSite-3857ab"/></a>
   <a href="https://github.com/20syldev/doc-coopbot#readme"><img src="https://img.shields.io/badge//doc&#8722;coopbot-3857ab"/></a>
