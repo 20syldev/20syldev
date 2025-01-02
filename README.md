@@ -56,6 +56,9 @@ J'adore faire ça pour développer ma créativité, faciliter l'utilisation de c
 
 <div align="center">
   <a href="https://github.com/20syldev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&layout=normal&card_width=1000&border_radius=20&hide_title=true&text_color=fff&theme=dark&bg_color=0d1117"/>
+  </a><br><br>
+  <a href="https://github.com/20syldev">
     <img src="https://komarev.com/ghpvc/?username=20syldev&color=69a5dc&style=flat&label=Vues+du+profil"/>
   </a>
 </div>
