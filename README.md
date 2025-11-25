@@ -9,7 +9,7 @@
 ### Un développeur Web Full-Stack et Web Designer.
 Je conçois des sites web modernes, des APIs robustes et des outils de gestion serveur. J'utilise de nombreux langages (**HTML**, **CSS**, **JavaScript** (Angular.js, Node.js, Vue.js, Discord.js), **Shell**, **C++**, **C#**, **Ruby**, **Swift**, **Python**...) pour créer des solutions sur-mesure, accessibles et performantes.
 
-Découvrez qui je suis sur [sylvain.pro](https://sylvain.pro), vous retrouverez mes projets, les détails, mon [CV](https://sylvain.pro/files/CV.pdf) et bien plus !
+Découvrez qui je suis sur [sylvain.pro](https://sylvain.pro), vous retrouverez mes projets, les détails, mon [alternance](https://sylvain.pro/alternance) et bien plus !
 
 ## 🔧 Mes principaux projets
 
@@ -17,6 +17,13 @@ Découvrez qui je suis sur [sylvain.pro](https://sylvain.pro), vous retrouverez 
 Outil pour explorer, rechercher et copier rapidement des caractères Unicode et spéciaux.  
 Interface simple, efficace, utile pour développeurs et designers.  
 [Découvrir LeBonChar](https://sylvain.pro/projets/lebonchar) | [lebonchar.site](https://lebonchar.site)
+
+---
+
+### Dashboard V2 (Node.js, HTML, CSS, JS)
+Rework complet de l'interface de monitoring anciennement sur Kibana, avec de nouvelles fonctionnalités.  
+Interface modernisée, plus intuitive et améliorée.  
+[Découvrir Dashboard V2](https://sylvain.pro/alternance#monitoring)
 
 ---
 
