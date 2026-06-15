@@ -57,23 +57,24 @@ Design moderne, animations, mode clair/sombre, navigation intuitive et responsiv
 ---
 
 <div align="center">
-  <br>
+  <a href="https://github.com/20syldev">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&layout=normal&langs_count=10&card_width=1000&border_radius=20&hide_title=true&text_color=fff&theme=dark&bg_color=0d1117"
+        alt=""
+    />
+  </a>
 
-  <!--
   <a href="https://github.com/20syldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&layout=normal&langs_count=10&card_width=1000&border_radius=20&hide_title=true&text_color=fff&theme=dark&bg_color=0d1117"/>
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=dark&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250"
+        alt=""
+    />
   </a>
-  
-  <br>
-  
+
   <a href="https://github.com/20syldev">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=dark&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250"/>
-  </a>
-  
-  <br>
-  -->
-  
-  <a href="https://github.com/20syldev">
-    <img src="https://komarev.com/ghpvc/?username=20syldev&color=566fe3&style=flat&label=Vues+du+profil"/>
+    <img 
+        src="https://komarev.com/ghpvc/?username=20syldev&color=566fe3&style=flat&label=Vues+du+profil"
+        alt=""
+    />
   </a>
 </div>
