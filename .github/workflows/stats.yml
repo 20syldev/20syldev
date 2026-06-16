@@ -1,0 +1,60 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Toutes les 6 heures
+  workflow_dispatch:        # Déclenchement manuel
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create stats directory
+        run: mkdir -p stats
+
+      - name: Download Top Languages (with retry)
+        run: |
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+            curl -L -o stats/top-langs.svg \
+              "https://github-readme-stats.vercel.app/api/top-langs/?username=20syldev&layout=normal&langs_count=10&card_width=1000&border_radius=20&hide_title=true&text_color=fff&theme=dark&bg_color=0d1117"
+
+            # Vérifier si le fichier est valide (contient svg et pas d'erreur)
+            if grep -q "<svg" stats/top-langs.svg && ! grep -qi "failed\|error" stats/top-langs.svg; then
+              echo "Success!"
+              break
+            fi
+
+            echo "Failed or invalid response, retrying in 10s..."
+            sleep 10
+          done
+
+      - name: Download Streak Stats (with retry)
+        run: |
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+            curl -L -o stats/streak.svg \
+              "https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=dark&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250"
+
+            # Vérifier si le fichier est valide
+            if grep -q "<svg" stats/streak.svg && ! grep -qi "failed\|error" stats/streak.svg; then
+              echo "Success!"
+              break
+            fi
+
+            echo "Failed or invalid response, retrying in 10s..."
+            sleep 10
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --staged --quiet || git commit -m "chore: update GitHub stats"
+          git push
