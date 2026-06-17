@@ -92,7 +92,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     <a href="https://www.microsoft.com/windows"><img src="https://sylvain.pro/icons/tech/windows.svg" height="40" alt="Windows" title="Windows"/></a>
     <a href="https://www.raspberrypi.org"><img src="https://sylvain.pro/icons/tech/raspberrypi.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi"/></a>
     <a href="https://www.android.com"><img src="https://sylvain.pro/icons/tech/android.svg" height="40" alt="Android" title="Android"/></a>
-    <img width="500" height="1">
+    <img width="400" height="1">
 </td>
 <td align="center"><strong>Design & 3D</strong><br><br>
     <a href="https://www.adobe.com"><img src="https://sylvain.pro/icons/tech/adobe.svg" height="40" alt="Adobe" title="Adobe"/></a>
@@ -101,7 +101,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     <a href="https://www.maxon.net/cinema-4d"><img src="https://sylvain.pro/icons/tech/cinema4d.svg" height="40" alt="Cinema 4D" title="Cinema 4D"/></a>
     <a href="https://godotengine.org"><img src="https://sylvain.pro/icons/tech/godot.svg" height="40" alt="Godot" title="Godot"/></a>
     <a href="https://github.com/tmux/tmux"><img src="https://sylvain.pro/icons/tech/tmux.svg" height="40" alt="tmux" title="tmux"/></a>
-    <img width="500" height="1">
+    <img width="400" height="1">
 </td>
     
 </tr>
