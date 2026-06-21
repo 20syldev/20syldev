@@ -16,7 +16,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
 
 <table>
 <tr>
-<td align="center"><img width="380" height="1">
+<td align="center">
     <strong>Langages</strong><br><br>
     <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://sylvain.pro/icons/tech/html.svg" height="40" alt="HTML" title="HTML"/></a>
     <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://sylvain.pro/icons/tech/css.svg" height="40" alt="CSS" title="CSS"/></a>
@@ -37,7 +37,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     <a href="https://www.gnu.org/software/bash"><img src="https://sylvain.pro/icons/tech/bash.svg" height="40" alt="Bash" title="Bash"/></a>
     <a href="https://www.rust-lang.org"><img src="https://sylvain.pro/icons/tech/rust.svg" height="40" alt="Rust" title="Rust"/></a>
 </td>
-<td align="center"><img width="380" height="1">
+<td align="center">
     <strong>Frameworks</strong><br><br>
     <a href="https://react.dev"><img src="https://sylvain.pro/icons/tech/react.svg" height="40" alt="React" title="React"/></a>
     <a href="https://nextjs.org"><img src="https://sylvain.pro/icons/tech/nextjs.svg" height="40" alt="Next.js" title="Next.js"/></a>
@@ -94,6 +94,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     <a href="https://www.microsoft.com/windows"><img src="https://sylvain.pro/icons/tech/windows.svg" height="40" alt="Windows" title="Windows"/></a>
     <a href="https://www.raspberrypi.org"><img src="https://sylvain.pro/icons/tech/raspberrypi.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi"/></a>
     <a href="https://www.android.com"><img src="https://sylvain.pro/icons/tech/android.svg" height="40" alt="Android" title="Android"/></a>
+    <img width="380" height="1">
 </td>
 <td align="center"><strong>Design & 3D</strong><br><br>
     <a href="https://www.adobe.com"><img src="https://sylvain.pro/icons/tech/adobe.svg" height="40" alt="Adobe" title="Adobe"/></a>
@@ -102,6 +103,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     <a href="https://www.maxon.net/cinema-4d"><img src="https://sylvain.pro/icons/tech/cinema4d.svg" height="40" alt="Cinema 4D" title="Cinema 4D"/></a>
     <a href="https://godotengine.org"><img src="https://sylvain.pro/icons/tech/godot.svg" height="40" alt="Godot" title="Godot"/></a>
     <a href="https://github.com/tmux/tmux"><img src="https://sylvain.pro/icons/tech/tmux.svg" height="40" alt="tmux" title="tmux"/></a>
+    <img width="380" height="1">
 </td>
     
 </tr>
