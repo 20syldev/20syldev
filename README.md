@@ -37,8 +37,7 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     <a href="https://www.gnu.org/software/bash"><img src="https://sylvain.pro/icons/tech/bash.svg" height="40" alt="Bash" title="Bash"/></a>
     <a href="https://www.rust-lang.org"><img src="https://sylvain.pro/icons/tech/rust.svg" height="40" alt="Rust" title="Rust"/></a>
 </td>
-<td align="center">
-    <img width="380" height="1">
+<td align="center"><img width="380" height="1">
     <strong>Frameworks</strong><br><br>
     <a href="https://react.dev"><img src="https://sylvain.pro/icons/tech/react.svg" height="40" alt="React" title="React"/></a>
     <a href="https://nextjs.org"><img src="https://sylvain.pro/icons/tech/nextjs.svg" height="40" alt="Next.js" title="Next.js"/></a>
@@ -107,8 +106,6 @@ Apprenez-en plus en vous rendant [ici](https://sylvain.pro) !
     
 </tr>
 </table>
-
----
 
 ## 🔧 Mes principaux projets
 
