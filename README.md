@@ -155,13 +155,7 @@ Interface simple, efficace, utile pour développeurs et designers.
 ---
 
 <p align="center">
-    <a href="https://github.com/20syldev">
-        <img src="stats/top-langs.svg" alt="Top Languages"/>
-    </a>
-    <a href="https://github.com/20syldev">
-        <img src="stats/streak.svg" alt="GitHub Streak"/>
-    </a>
-    <a href="https://github.com/20syldev">
-        <img src="https://komarev.com/ghpvc/?username=20syldev&color=566fe3&style=flat&label=Vues+du+profil" alt="Profile views"/>
-    </a>
+    <a href="https://github.com/20syldev"><img src="https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=dark&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250" alt=""/></a>
+    <br>
+    <a href="https://github.com/20syldev"><img src="https://komarev.com/ghpvc/?username=20syldev&color=566fe3&style=flat&label=Vues+du+profil" alt="Profile views"/></a>
 </p>
