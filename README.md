@@ -98,11 +98,11 @@ Design moderne, animations, mode clair/sombre, navigation intuitive et responsiv
 
 ---
 
-### API (Node.js, Express)
-API Node.js Express, hébergée 24/7, pensée pour les développeurs et utilisateurs.
-Elle propose des outils dynamiques, une architecture REST simple à intégrer, et une documentation claire ([docs.sylvain.sh](https://docs.sylvain.sh)).
-Quota gratuit, extensible.
-[Découvrir l'API](https://sylvain.sh/projet/api) | [api.sylvain.sh](https://api.sylvain.sh)
+### API (Node.js, Express, TypeScript)
+Package npm avant tout : plus de 40 modules à importer dans vos projets, ou une API REST complète à héberger vous-même en une commande.
+Le code publié est entièrement générique — [api.sylvain.sh](https://api.sylvain.sh) n'en est que mon déploiement, hébergé 24/7, avec un plugin perso en plus.
+Documentation détaillée sur [docs.sylvain.sh](https://docs.sylvain.sh), quota gratuit et extensible.
+[Découvrir l'API](https://sylvain.sh/projet/api) | [npmjs.com](https://npmjs.com/package/@20syldev/api) | [api.sylvain.sh](https://api.sylvain.sh)
 
 ---
 
@@ -113,10 +113,10 @@ Explications détaillées, exemples, présentation claire, sections dédiées à
 
 ---
 
-### Flowers (Next.js, Tailwind CSS, TypeScript)
-Visualiseur de données en temps réel pour toute API JSON.
-Détection automatique des types, filtrage avancé, presets, comparaison côte à côte — le tout sans serveur.
-[Découvrir Flowers](https://sylvain.sh/projet/flowers) | [flowers.sylvain.sh](https://flowers.sylvain.sh)
+### strftime (Next.js, Tailwind CSS, TypeScript)
+Constructeur de formats de date interactif, avec un moteur `strftime` écrit de zéro en TypeScript.
+Les 48 directives expliquées en langage clair, aperçu en temps réel, linter de portabilité C / Python / Ruby et génération de code.
+[Découvrir strftime](https://sylvain.sh/projet/strftime) | [strftime.sylvain.sh](https://strftime.sylvain.sh)
 
 ---
 
@@ -137,6 +137,13 @@ Outil CLI léger pour récupérer les infos de releases, lister les assets et t�
 Menu interactif en terminal pour gérer les connexions SSH, dépôts GitHub, alias Bash et fonctions shell.
 Navigation intuitive avec raccourcis clavier et architecture modulaire.
 [Découvrir MN](https://sylvain.sh/projet/mn) | [GitHub](https://github.com/20syldev/mn)
+
+---
+
+### HYOAI (Next.js, React, TypeScript)
+Interface de chat 100% navigateur pour tout LLM compatible OpenAI (llama.cpp, vLLM, Ollama...), développée et open-sourcée pour ZENETYS.
+Aucun backend : les conversations ne quittent jamais votre machine.
+[Découvrir HYOAI](https://sylvain.sh/projet/hyoai) | [tools.zenetys.com](https://tools.zenetys.com/hyoai/)
 
 ---
 
