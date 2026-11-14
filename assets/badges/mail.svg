@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="24" viewBox="0 0 170 24" role="img" aria-label="contact@sylvain.sh">
+<title>contact@sylvain.sh</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#566fe3"/><stop offset="1" stop-color="#4559c9"/></linearGradient></defs>
+<rect x="0" y="0" width="170" height="24" rx="12.0" fill="url(#g)"/>
+<g transform="translate(10 5.0) scale(0.5833)" fill="none" stroke="#ffffff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"/><rect x="2" y="4" width="20" height="16" rx="2"/></g>
+<text x="30" y="16.3" fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-weight="600" font-size="12" textLength="130">contact@sylvain.sh</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="18" viewBox="0 0 81 18" role="img" aria-label="Mis à jour">
+<title>Mis à jour</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b5fe8"/><stop offset="1" stop-color="#4338ca"/></linearGradient></defs>
+<rect x="0" y="0" width="81" height="16" rx="8.0" fill="url(#g)"/>
+<g transform="translate(6 3.0) scale(0.4167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></g>
+<text x="20" y="11.6" fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-weight="600" font-size="10" textLength="55">Mis à jour</text>
+</svg>

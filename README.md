@@ -1,154 +1,207 @@
-# 👋 Salut, moi c'est Sylvain !
+<a href="https://sylvain.sh"><img src="assets/banner.png" alt="Salut, moi c'est Sylvain ! Développeur Full Stack & Web Designer" width="100%"/></a>
 
-### Un développeur Web Full-Stack et Web Designer.
+<p align="center">
+    Je conçois des sites web modernes, des APIs robustes et des outils de gestion serveur.<br>
+    Apprenez-en plus en vous rendant <a href="https://sylvain.sh">ici</a> !
+</p>
 
-Je conçois des sites web modernes, des APIs robustes et des outils de gestion serveur.
-Apprenez-en plus en vous rendant [ici](https://sylvain.sh) !
+<p align="center">
+    <a href="https://linkedin.com/in/sylvainlmb"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+    <a href="https://discord.com/users/607163002755481602"><img src="assets/badges/discord.svg" alt="Discord"/></a>
+    <a href="mailto:contact@sylvain.sh"><img src="assets/badges/mail.svg" alt="contact@sylvain.sh"/></a>
+    <a href="https://sylvain.sh/cv/"><img src="assets/badges/cv.svg" alt="CV"/></a>
+    <a href="https://github.com/sponsors/20syldev"><img src="assets/badges/sponsors.svg" alt="Sponsors"/></a>
+</p>
 
 ## 🛠️ Technologies
 
-<div align="center">
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/></a>
-<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP"/></a>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"/></a>
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C"/></a>
-<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++"/></a>
-<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" title="C#"/></a>
-<a href="https://www.ruby-lang.org"><img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby" title="Ruby"/></a>
-<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go"/></a>
-<a href="https://www.swift.org"><img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" title="Swift"/></a>
-<a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin"/></a>
-<a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" title="Dart"/></a>
-<a href="https://www.perl.org"><img src="https://skillicons.dev/icons?i=perl" height="40" alt="Perl" title="Perl"/></a>
-<a href="https://www.gnu.org/software/bash"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"/></a>
-<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust"/></a>
-</div>
-
-<div align="center">
-    <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/></a>
-    <a href="https://linuxmint.com"><img src="https://skillicons.dev/icons?i=mint" height="40" alt="Linux Mint" title="Linux Mint"/></a>
-    <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" title="Windows"/></a>
-    <a href="https://www.raspberrypi.org"><img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi" title="Raspberry Pi"/></a>
-</div>
-<div align="center">
-    <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/></a>
-    <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js"/></a>
-    <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/></a>
-    <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-    <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap"/></a>
-    <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" title="Flutter"/></a>
-    <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" title="Vue.js"/></a>
-    <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite"/></a>
-    <a href="https://vuetifyjs.com"><img src="https://skillicons.dev/icons?i=vuetify" height="40" alt="Vuetify" title="Vuetify"/></a>
-    <a href="https://reactnative.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" title="React Native"/></a>
-    <a href="https://jquery.com"><img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery" title="jQuery"/></a>
-</div>
-
-<div align="center">
-    <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/></a>
-    <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/></a>
-    <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/></a>
-    <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" title="Nginx"/></a>
-    <a href="https://www.elastic.co/elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="Elasticsearch" title="Elasticsearch"/></a>
-    <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown" title="Markdown"/></a>
-</div>
-
-<div align="center">
-    <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/></a>
-    <a href="https://www.vim.org"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" title="Vim"/></a>
-    <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" title="Android Studio"/></a>
-    <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm" title="npm"/></a>
-</div>
-
-<div align="center">
-    <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/></a>
-    <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>
-    <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/></a>
-    <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" title="SQLite"/></a>
-    <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase"/></a>
-</div>
-
-<div align="center">
-    <a href="https://www.adobe.com/products/photoshop"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Photoshop"/></a>
-    <a href="https://www.adobe.com/products/illustrator"><img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" title="Illustrator"/></a>
-    <a href="https://www.adobe.com/products/xd"><img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" title="Adobe XD"/></a>
-    <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/></a>
-    <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender"/></a>
-    <a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" title="Godot"/></a>
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://sylvain.sh"><img src="https://img.shields.io/badge/sylvain.sh-566fe3?logo=artifacthub&logoColor=white"/></a>
-    <a href="https://sylvain.sh/tech"><img src="https://img.shields.io/badge/Voir tout-566fe3?logo=chainlink&color=333"/></a>
-    <a href="https://discord.com/users/607163002755481602"><img src="https://img.shields.io/badge/@20syl__-5865F2?logo=Discord&logoColor=white"/></a>
-</div>
+<p align="center">
+    <a href="https://www.typescriptlang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"/><img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" title="TypeScript" width="48" hspace="2"/></picture></a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"/><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="48" hspace="2"/></picture></a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"/><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" title="HTML" width="48" hspace="2"/></picture></a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"/><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" title="CSS" width="48" hspace="2"/></picture></a>
+    <a href="https://go.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark"/><img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go" title="Go" width="48" hspace="2"/></picture></a>
+    <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"/><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python" width="48" hspace="2"/></picture></a>
+    <a href="https://www.php.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark"/><img src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP" title="PHP" width="48" hspace="2"/></picture></a>
+    <a href="https://www.gnu.org/software/bash"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"/><img src="https://skillicons.dev/icons?i=bash&theme=light" alt="Bash" title="Bash" width="48" hspace="2"/></picture></a>
+    <a href="https://en.cppreference.com/w/c"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark"/><img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" title="C" width="48" hspace="2"/></picture></a>
+    <a href="https://isocpp.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"/><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" title="C++" width="48" hspace="2"/></picture></a>
+    <a href="https://www.java.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"/><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java" width="48" hspace="2"/></picture></a>
+    <a href="https://www.rust-lang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark"/><img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust" title="Rust" width="48" hspace="2"/></picture></a>
+    <br>
+    <a href="https://react.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"/><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" width="48" hspace="2"/></picture></a>
+    <a href="https://nextjs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark"/><img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" title="Next.js" width="48" hspace="2"/></picture></a>
+    <a href="https://nodejs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"/><img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" title="Node.js" width="48" hspace="2"/></picture></a>
+    <a href="https://expressjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark"/><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" title="Express" width="48" hspace="2"/></picture></a>
+    <a href="https://tailwindcss.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark"/><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind CSS" title="Tailwind CSS" width="48" hspace="2"/></picture></a>
+    <a href="https://vuejs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue&theme=dark"/><img src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue.js" title="Vue.js" width="48" hspace="2"/></picture></a>
+    <a href="https://vitejs.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite&theme=dark"/><img src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite" title="Vite" width="48" hspace="2"/></picture></a>
+    <a href="https://vuetifyjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vuetify&theme=dark"/><img src="https://skillicons.dev/icons?i=vuetify&theme=light" alt="Vuetify" title="Vuetify" width="48" hspace="2"/></picture></a>
+    <a href="https://flutter.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark"/><img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter" title="Flutter" width="48" hspace="2"/></picture></a>
+    <br>
+    <a href="https://www.docker.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"/><img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker" width="48" hspace="2"/></picture></a>
+    <a href="https://nginx.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx&theme=dark"/><img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="Nginx" title="Nginx" width="48" hspace="2"/></picture></a>
+    <a href="https://www.kernel.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"/><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" title="Linux" width="48" hspace="2"/></picture></a>
+    <a href="https://git-scm.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"/><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="48" hspace="2"/></picture></a>
+    <a href="https://github.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark"/><img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" title="GitHub" width="48" hspace="2"/></picture></a>
+    <a href="https://www.elastic.co/elasticsearch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=elasticsearch&theme=dark"/><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" title="Elasticsearch" width="48" hspace="2"/></picture></a>
+    <a href="https://www.postgresql.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"/><img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" title="PostgreSQL" width="48" hspace="2"/></picture></a>
+    <a href="https://www.mysql.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark"/><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" title="MySQL" width="48" hspace="2"/></picture></a>
+    <a href="https://www.mongodb.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark"/><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" title="MongoDB" width="48" hspace="2"/></picture></a>
+    <a href="https://www.figma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma&theme=dark"/><img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" title="Figma" width="48" hspace="2"/></picture></a>
+    <a href="https://www.blender.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=blender&theme=dark"/><img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Blender" title="Blender" width="48" hspace="2"/></picture></a>
+    <a href="https://code.visualstudio.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark"/><img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" title="VS Code" width="48" hspace="2"/></picture></a>
+    <br>
+    <a href="https://sylvain.sh/tech"><img src="assets/badges/tech.svg" alt="Voir les 63 technologies sur sylvain.sh"/></a>
+</p>
 
 ## 🔧 Mes principaux projets
 
-### Portfolio (Next.js, Tailwind CSS, TypeScript)
-Site web personnel, vitrine de mes projets, compétences et expériences.
-Design moderne, animations, mode clair/sombre, navigation intuitive et responsive.
-[Découvrir mon portfolio](https://sylvain.sh/projet/portfolio) | [sylvain.sh](https://sylvain.sh)
+### Moxon
 
----
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://sylvain.sh/projet/moxon"><img src="assets/projects/moxon.webp" alt="Moxon" width="100%"/></a><br>
+            <b>Moxon</b><br>
+            <sub>Node.js · Express · TypeScript</sub><br>
+            Package npm de plus de 40 modules, ou une API REST complète à héberger en une commande.<br>
+            <a href="https://sylvain.sh/projet/moxon">Découvrir</a> · <a href="https://api.moxon.dev">api.moxon.dev</a> · <a href="https://npmjs.com/package/@moxon/api">npm</a>
+        </td>
+        <td width="50%" valign="top">
+            <a href="https://sylvain.sh/projet/docs"><img src="assets/projects/docs.webp" alt="Moxon Docs" width="100%"/></a><br>
+            <b>Moxon Docs</b><br>
+            <sub>Next.js · TypeScript · Tailwind CSS</sub><br>
+            Documentation interactive : Try et Playground branchés sur l'API, recherche au clavier, v1 à v6 en FR/EN.<br>
+            <a href="https://sylvain.sh/projet/docs">Découvrir</a> · <a href="https://moxon.dev">moxon.dev</a>
+        </td>
+    </tr>
+</table>
 
-### API (Node.js, Express, TypeScript)
-Package npm avant tout : plus de 40 modules à importer dans vos projets, ou une API REST complète à héberger vous-même en une commande.
-Le code publié est entièrement générique — [api.sylvain.sh](https://api.sylvain.sh) n'en est que mon déploiement, hébergé 24/7, avec un plugin perso en plus.
-Documentation détaillée sur [docs.sylvain.sh](https://docs.sylvain.sh), quota gratuit et extensible.
-[Découvrir l'API](https://sylvain.sh/projet/api) | [npmjs.com](https://npmjs.com/package/@20syldev/api) | [api.sylvain.sh](https://api.sylvain.sh)
+### Nouveautés
 
----
+<table>
+    <tr>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/tote"><img src="assets/projects/tote.webp" alt="tote" width="100%"/></a><br>
+            <b>tote</b> <img src="assets/badges/new.svg" alt="Nouveau" height="18" align="absmiddle" hspace="4"/><br>
+            <sub>Go · Bubble Tea</sub><br>
+            Lanceur en terminal pour SSH, dépôts, alias et fonctions. Le successeur de MN.<br>
+            <a href="https://sylvain.sh/projet/tote">Découvrir</a> · <a href="https://github.com/totecli/tote">GitHub</a>
+        </td>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/wispen"><img src="assets/projects/wispen.webp" alt="Wispen" width="100%"/></a><br>
+            <b>Wispen</b> <img src="assets/badges/new.svg" alt="Nouveau" height="18" align="absmiddle" hspace="4"/><br>
+            <sub>Next.js · PWA</sub><br>
+            Tableau blanc open source, sans compte, entièrement dans le navigateur.<br>
+            <a href="https://sylvain.sh/projet/wispen">Découvrir</a> · <a href="https://wispen.sylvain.sh">wispen.sylvain.sh</a>
+        </td>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/kao"><img src="assets/projects/kao.webp" alt="Kao" width="100%"/></a><br>
+            <b>Kao</b> <img src="assets/badges/new.svg" alt="Nouveau" height="18" align="absmiddle" hspace="4"/><br>
+            <sub>Next.js · Ruffle</sub><br>
+            Éditeur d'avatars manga dans le navigateur, avec export HD sans perte.<br>
+            <a href="https://sylvain.sh/projet/kao">Découvrir</a> · <a href="https://kao.sylvain.sh">kao.sylvain.sh</a>
+        </td>
+    </tr>
+</table>
 
-### Docs (VitePress, Vue.js, TypeScript)
-Documentation interactive et moderne pour mon API.
-Explications détaillées, exemples, présentation claire, sections dédiées à chaque service.
-[Découvrir la documentation](https://sylvain.sh/projet/docs) | [docs.sylvain.sh](https://docs.sylvain.sh)
+### Outils
 
----
+<table>
+    <tr>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/dropr"><img src="assets/projects/dropr.webp" alt="Dropr" width="100%"/></a><br>
+            <b>Dropr</b> <img src="assets/badges/updated.svg" alt="Mis à jour" height="18" align="absmiddle" hspace="4"/><br>
+            <sub>Node.js · TypeScript · CLI · 4.5.0</sub><br>
+            Serveur de CDN versionné, en ligne de commande et en bibliothèque.<br>
+            <a href="https://sylvain.sh/projet/dropr">Découvrir</a> · <a href="https://dropr.sylvain.sh">dropr.sylvain.sh</a> · <a href="https://www.npmjs.com/package/dropr">npm</a>
+        </td>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/gft"><img src="assets/projects/gft.webp" alt="GFT" width="100%"/></a><br>
+            <b>GFT</b> <img src="assets/badges/updated.svg" alt="Mis à jour" height="18" align="absmiddle" hspace="4"/><br>
+            <sub>Bash · CLI · 1.1.0</sub><br>
+            Infos de releases GitHub et téléchargement d'assets, sans authentification.<br>
+            <a href="https://sylvain.sh/projet/gft">Découvrir</a> · <a href="https://github.com/20syldev/gft">GitHub</a>
+        </td>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/logger"><img src="assets/projects/logger.webp" alt="Logger.ts" width="100%"/></a><br>
+            <b>Logger.ts</b><br>
+            <sub>Node.js · TypeScript</sub><br>
+            Logs structurés en JSON, avec thèmes, groupes et API HTTP intégrée.<br>
+            <a href="https://sylvain.sh/projet/logger">Découvrir</a> · <a href="https://www.npmjs.com/package/@20syldev/logger.ts">npm</a>
+        </td>
+    </tr>
+</table>
 
-### strftime (Next.js, Tailwind CSS, TypeScript)
-Constructeur de formats de date interactif, avec un moteur `strftime` écrit de zéro en TypeScript.
-Les 48 directives expliquées en langage clair, aperçu en temps réel, linter de portabilité C / Python / Ruby et génération de code.
-[Découvrir strftime](https://sylvain.sh/projet/strftime) | [strftime.sylvain.sh](https://strftime.sylvain.sh)
+### Web
 
----
+<table>
+    <tr>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/peek"><img src="assets/projects/peek.webp" alt="Peek" width="100%"/></a><br>
+            <b>Peek</b><br>
+            <sub>Next.js · Markdown</sub><br>
+            Affiche n'importe quel README comme GitHub, GitLab, Obsidian ou CommonMark.<br>
+            <a href="https://sylvain.sh/projet/peek">Découvrir</a> · <a href="https://peek.sylvain.sh">peek.sylvain.sh</a>
+        </td>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/neuron"><img src="assets/projects/neuron.webp" alt="Neuron" width="100%"/></a><br>
+            <b>Neuron</b><br>
+            <sub>Next.js · Réseaux de neurones</sub><br>
+            Essai interactif sur les réseaux de neurones, de l'encre au sens, sans serveur.<br>
+            <a href="https://sylvain.sh/projet/neuron">Découvrir</a> · <a href="https://neuron.sylvain.sh">neuron.sylvain.sh</a>
+        </td>
+        <td width="33%" valign="top">
+            <a href="https://sylvain.sh/projet/strftime"><img src="assets/projects/strftime.webp" alt="strftime" width="100%"/></a><br>
+            <b>strftime</b><br>
+            <sub>Next.js · Date &amp; Time</sub><br>
+            Constructeur de formats de date, avec linter de portabilité C / Python / Ruby.<br>
+            <a href="https://sylvain.sh/projet/strftime">Découvrir</a> · <a href="https://strftime.sylvain.sh">strftime.sylvain.sh</a>
+        </td>
+    </tr>
+</table>
 
-### Logger.ts (Node.js, TypeScript)
-Module NPM minimaliste pour générer, formater et servir des logs structurés en JSON.
-Thèmes personnalisables, système de groupes et API HTTP intégrée.
-[Découvrir Logger.ts](https://sylvain.sh/projet/logger) | [npmjs.com](https://www.npmjs.com/package/@20syldev/logger.ts)
+### Pour ZENETYS
 
----
-
-### GFT (Bash, Shell)
-Outil CLI léger pour récupérer les infos de releases, lister les assets et télécharger depuis n'importe quel projet GitHub — sans authentification requise.
-[Découvrir GFT](https://sylvain.sh/projet/gft) | [GitHub](https://github.com/20syldev/gft)
-
----
-
-### MN (Bash, Shell)
-Menu interactif en terminal pour gérer les connexions SSH, dépôts GitHub, alias Bash et fonctions shell.
-Navigation intuitive avec raccourcis clavier et architecture modulaire.
-[Découvrir MN](https://sylvain.sh/projet/mn) | [GitHub](https://github.com/20syldev/mn)
-
----
-
-### HYOAI (Next.js, React, TypeScript)
-Interface de chat 100% navigateur pour tout LLM compatible OpenAI (llama.cpp, vLLM, Ollama...), développée et open-sourcée pour ZENETYS.
-Aucun backend : les conversations ne quittent jamais votre machine.
-[Découvrir HYOAI](https://sylvain.sh/projet/hyoai) | [tools.zenetys.com](https://tools.zenetys.com/hyoai/)
+<table>
+    <tr>
+        <td width="25%" valign="top">
+            <a href="https://sylvain.sh/projet/hyoai"><b>HYOAI</b></a><br>
+            <sub>Next.js · TypeScript · LLM</sub><br>
+            Chat 100 % navigateur pour tout LLM compatible OpenAI.<br>
+            <a href="https://sylvain.sh/projet/hyoai">Découvrir</a> · <a href="https://tools.zenetys.com/hyoai/">Essayer</a>
+        </td>
+        <td width="25%" valign="top">
+            <a href="https://sylvain.sh/projet/zpki"><b>ZPKI</b></a><br>
+            <sub>Node.js · Bash · OpenSSL</sub><br>
+            Gestionnaire de certificats X.509 adossé à OpenSSL.<br>
+            <a href="https://sylvain.sh/projet/zpki">Découvrir</a> · <a href="https://tools.zenetys.com/zpki/">Essayer</a>
+        </td>
+        <td width="25%" valign="top">
+            <a href="https://sylvain.sh/projet/ztable"><b>Ztable</b></a><br>
+            <sub>Vue.js · Vuetify · JSON</sub><br>
+            Visionneuse JSON sans serveur et composant de tableau Vue.<br>
+            <a href="https://sylvain.sh/projet/ztable">Découvrir</a> · <a href="https://www.npmjs.com/package/@zenetys/ztable">npm</a>
+        </td>
+        <td width="25%" valign="top">
+            <a href="https://sylvain.sh/projet/zeportal"><b>Zenetys Tools</b></a><br>
+            <sub>Next.js · TypeScript · Hub</sub><br>
+            Le portail qui regroupe les outils et démos web de ZENETYS.<br>
+            <a href="https://sylvain.sh/projet/zeportal">Découvrir</a> · <a href="https://tools.zenetys.com">tools.zenetys.com</a>
+        </td>
+    </tr>
+</table>
 
 ---
 
 <p align="center">
-    <a href="https://github.com/20syldev"><img src="https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=dark&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250" alt=""/></a>
+    <a href="https://github.com/20syldev">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=dark&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=20syldev&theme=default&border_radius=20&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=250" alt="Séquence de contributions"/>
+        </picture>
+    </a>
     <br>
-    <a href="https://github.com/20syldev"><img src="https://komarev.com/ghpvc/?username=20syldev&color=566fe3&style=flat&label=Vues+du+profil" alt="Profile views"/></a>
+    <a href="https://github.com/20syldev"><img src="https://komarev.com/ghpvc/?username=20syldev&color=566fe3&style=flat&label=Vues+du+profil" alt="Vues du profil"/></a>
 </p>
