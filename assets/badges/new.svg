@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="76" height="18" viewBox="0 0 76 18" role="img" aria-label="Nouveau">
-<title>Nouveau</title>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07805c"/><stop offset="1" stop-color="#05684b"/></linearGradient></defs>
-<rect x="0" y="0" width="76" height="16" rx="8.0" fill="url(#g)"/>
-<g transform="translate(6 3.0) scale(0.4167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"/><path d="M20 2v4"/><path d="M22 4h-4"/><circle cx="4" cy="20" r="2"/></g>
-<text x="20" y="11.6" fill="#ffffff" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-weight="600" font-size="10" textLength="50">Nouveau</text>
-</svg>
