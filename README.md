@@ -63,14 +63,14 @@
     <tr>
         <td width="50%" valign="top">
             <a href="https://sylvain.sh/projet/moxon"><img src="assets/projects/moxon.webp" alt="Moxon" width="100%"/></a><br>
-            <b>Moxon</b> <img src="https://api.sylvain.sh/v6/website/badge/moxon.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Moxon</b> <a href="https://sylvain.sh/projet/moxon"><img src="https://api.sylvain.sh/v6/website/badge/moxon.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Node.js · Express · TypeScript</sub><br>
             Package npm de plus de 40 modules, ou une API REST complète à héberger en une commande.<br>
             <a href="https://sylvain.sh/projet/moxon">Découvrir</a> · <a href="https://api.moxon.dev">api.moxon.dev</a> · <a href="https://npmjs.com/package/@moxon/api">npm</a>
         </td>
         <td width="50%" valign="top">
             <a href="https://sylvain.sh/projet/docs"><img src="assets/projects/docs.webp" alt="Moxon Docs" width="100%"/></a><br>
-            <b>Moxon Docs</b> <img src="https://api.sylvain.sh/v6/website/badge/docs.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Moxon Docs</b> <a href="https://sylvain.sh/projet/docs"><img src="https://api.sylvain.sh/v6/website/badge/docs.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · TypeScript · Tailwind CSS</sub><br>
             Documentation interactive : Try et Playground branchés sur l'API, recherche au clavier, v1 à v6 en FR/EN.<br>
             <a href="https://sylvain.sh/projet/docs">Découvrir</a> · <a href="https://moxon.dev">moxon.dev</a>
@@ -84,21 +84,21 @@
     <tr>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/tote"><img src="assets/projects/tote.webp" alt="tote" width="100%"/></a><br>
-            <b>tote</b> <img src="https://api.sylvain.sh/v6/website/badge/tote.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>tote</b> <a href="https://sylvain.sh/projet/tote"><img src="https://api.sylvain.sh/v6/website/badge/tote.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Go · Bubble Tea</sub><br>
             Lanceur en terminal pour SSH, dépôts, alias et fonctions. Le successeur de MN.<br>
             <a href="https://sylvain.sh/projet/tote">Découvrir</a> · <a href="https://github.com/totecli/tote">GitHub</a>
         </td>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/wispen"><img src="assets/projects/wispen.webp" alt="Wispen" width="100%"/></a><br>
-            <b>Wispen</b> <img src="https://api.sylvain.sh/v6/website/badge/wispen.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Wispen</b> <a href="https://sylvain.sh/projet/wispen"><img src="https://api.sylvain.sh/v6/website/badge/wispen.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · PWA</sub><br>
             Tableau blanc open source, sans compte, entièrement dans le navigateur.<br>
             <a href="https://sylvain.sh/projet/wispen">Découvrir</a> · <a href="https://wispen.sylvain.sh">wispen.sylvain.sh</a>
         </td>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/kao"><img src="assets/projects/kao.webp" alt="Kao" width="100%"/></a><br>
-            <b>Kao</b> <img src="https://api.sylvain.sh/v6/website/badge/kao.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Kao</b> <a href="https://sylvain.sh/projet/kao"><img src="https://api.sylvain.sh/v6/website/badge/kao.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · Ruffle</sub><br>
             Éditeur d'avatars manga dans le navigateur, avec export HD sans perte.<br>
             <a href="https://sylvain.sh/projet/kao">Découvrir</a> · <a href="https://kao.sylvain.sh">kao.sylvain.sh</a>
@@ -112,21 +112,21 @@
     <tr>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/dropr"><img src="assets/projects/dropr.webp" alt="Dropr" width="100%"/></a><br>
-            <b>Dropr</b> <img src="https://api.sylvain.sh/v6/website/badge/dropr.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Dropr</b> <a href="https://sylvain.sh/projet/dropr"><img src="https://api.sylvain.sh/v6/website/badge/dropr.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Node.js · TypeScript · CLI · 4.5.0</sub><br>
             Serveur de CDN versionné, en ligne de commande et en bibliothèque.<br>
             <a href="https://sylvain.sh/projet/dropr">Découvrir</a> · <a href="https://dropr.sylvain.sh">dropr.sylvain.sh</a> · <a href="https://www.npmjs.com/package/dropr">npm</a>
         </td>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/gft"><img src="assets/projects/gft.webp" alt="GFT" width="100%"/></a><br>
-            <b>GFT</b> <img src="https://api.sylvain.sh/v6/website/badge/gft.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>GFT</b> <a href="https://sylvain.sh/projet/gft"><img src="https://api.sylvain.sh/v6/website/badge/gft.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Bash · CLI · 1.1.0</sub><br>
             Infos de releases GitHub et téléchargement d'assets, sans authentification.<br>
             <a href="https://sylvain.sh/projet/gft">Découvrir</a> · <a href="https://github.com/20syldev/gft">GitHub</a>
         </td>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/logger"><img src="assets/projects/logger.webp" alt="Logger.ts" width="100%"/></a><br>
-            <b>Logger.ts</b> <img src="https://api.sylvain.sh/v6/website/badge/logger.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Logger.ts</b> <a href="https://sylvain.sh/projet/logger"><img src="https://api.sylvain.sh/v6/website/badge/logger.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Node.js · TypeScript</sub><br>
             Logs structurés en JSON, avec thèmes, groupes et API HTTP intégrée.<br>
             <a href="https://sylvain.sh/projet/logger">Découvrir</a> · <a href="https://www.npmjs.com/package/@20syldev/logger.ts">npm</a>
@@ -140,21 +140,21 @@
     <tr>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/peek"><img src="assets/projects/peek.webp" alt="Peek" width="100%"/></a><br>
-            <b>Peek</b> <img src="https://api.sylvain.sh/v6/website/badge/peek.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Peek</b> <a href="https://sylvain.sh/projet/peek"><img src="https://api.sylvain.sh/v6/website/badge/peek.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · Markdown</sub><br>
             Affiche n'importe quel README comme GitHub, GitLab, Obsidian ou CommonMark.<br>
             <a href="https://sylvain.sh/projet/peek">Découvrir</a> · <a href="https://peek.sylvain.sh">peek.sylvain.sh</a>
         </td>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/neuron"><img src="assets/projects/neuron.webp" alt="Neuron" width="100%"/></a><br>
-            <b>Neuron</b> <img src="https://api.sylvain.sh/v6/website/badge/neuron.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>Neuron</b> <a href="https://sylvain.sh/projet/neuron"><img src="https://api.sylvain.sh/v6/website/badge/neuron.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · Réseaux de neurones</sub><br>
             Essai interactif sur les réseaux de neurones, de l'encre au sens, sans serveur.<br>
             <a href="https://sylvain.sh/projet/neuron">Découvrir</a> · <a href="https://neuron.sylvain.sh">neuron.sylvain.sh</a>
         </td>
         <td width="33%" valign="top">
             <a href="https://sylvain.sh/projet/strftime"><img src="assets/projects/strftime.webp" alt="strftime" width="100%"/></a><br>
-            <b>strftime</b> <img src="https://api.sylvain.sh/v6/website/badge/strftime.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+            <b>strftime</b> <a href="https://sylvain.sh/projet/strftime"><img src="https://api.sylvain.sh/v6/website/badge/strftime.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · Date &amp; Time</sub><br>
             Constructeur de formats de date, avec linter de portabilité C / Python / Ruby.<br>
             <a href="https://sylvain.sh/projet/strftime">Découvrir</a> · <a href="https://strftime.sylvain.sh">strftime.sylvain.sh</a>
@@ -166,26 +166,30 @@
 
 <table>
     <tr>
-        <td width="25%" valign="top">
-            <a href="https://sylvain.sh/projet/hyoai"><b>HYOAI</b></a> <img src="https://api.sylvain.sh/v6/website/badge/hyoai.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+        <td width="50%" valign="top">
+            <a href="https://sylvain.sh/projet/hyoai"><b>HYOAI</b></a> <a href="https://sylvain.sh/projet/hyoai"><img src="https://api.sylvain.sh/v6/website/badge/hyoai.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · TypeScript · LLM</sub><br>
             Chat 100 % navigateur pour tout LLM compatible OpenAI.<br>
             <a href="https://sylvain.sh/projet/hyoai">Découvrir</a> · <a href="https://tools.zenetys.com/hyoai/">Essayer</a>
+            <br><img src="assets/spacer.png" alt="" width="100%" height="1"/>
         </td>
-        <td width="25%" valign="top">
-            <a href="https://sylvain.sh/projet/zpki"><b>ZPKI</b></a> <img src="https://api.sylvain.sh/v6/website/badge/zpki.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+        <td width="50%" valign="top">
+            <a href="https://sylvain.sh/projet/zpki"><b>ZPKI</b></a> <a href="https://sylvain.sh/projet/zpki"><img src="https://api.sylvain.sh/v6/website/badge/zpki.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Node.js · Bash · OpenSSL</sub><br>
             Gestionnaire de certificats X.509 adossé à OpenSSL.<br>
             <a href="https://sylvain.sh/projet/zpki">Découvrir</a> · <a href="https://tools.zenetys.com/zpki/">Essayer</a>
+            <br><img src="assets/spacer.png" alt="" width="100%" height="1"/>
         </td>
-        <td width="25%" valign="top">
-            <a href="https://sylvain.sh/projet/ztable"><b>Ztable</b></a> <img src="https://api.sylvain.sh/v6/website/badge/ztable.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://sylvain.sh/projet/ztable"><b>Ztable</b></a> <a href="https://sylvain.sh/projet/ztable"><img src="https://api.sylvain.sh/v6/website/badge/ztable.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Vue.js · Vuetify · JSON</sub><br>
             Visionneuse JSON sans serveur et composant de tableau Vue.<br>
             <a href="https://sylvain.sh/projet/ztable">Découvrir</a> · <a href="https://www.npmjs.com/package/@zenetys/ztable">npm</a>
         </td>
-        <td width="25%" valign="top">
-            <a href="https://sylvain.sh/projet/zeportal"><b>Zenetys Tools</b></a> <img src="https://api.sylvain.sh/v6/website/badge/zeportal.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/><br>
+        <td width="50%" valign="top">
+            <a href="https://sylvain.sh/projet/zeportal"><b>Zenetys Tools</b></a> <a href="https://sylvain.sh/projet/zeportal"><img src="https://api.sylvain.sh/v6/website/badge/zeportal.svg" alt="Statut" height="18" align="absmiddle" hspace="4"/></a><br>
             <sub>Next.js · TypeScript · Hub</sub><br>
             Le portail qui regroupe les outils et démos web de ZENETYS.<br>
             <a href="https://sylvain.sh/projet/zeportal">Découvrir</a> · <a href="https://tools.zenetys.com">tools.zenetys.com</a>
